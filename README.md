@@ -12,7 +12,7 @@
 
   - 🌱 I’m currently learning **Backend Development**
 
-  - 👨‍💻 All of my projects are available at [saqibmazhar.com](saqibmazhar.com)
+  - 👨‍💻 All of my projects are usually available at [saqibmazhar.com](saqibmazhar.com) (In progress)
 
   - 📫 How to reach me **saqibmaz@gmail.com**
 
