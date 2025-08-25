@@ -1,27 +1,17 @@
-<h1 align="center">Hi 👋, I'm Saqib
+<h1 align="center">Hello, I'm Saqib</h1>
 
-<h3 align="center">A CS Student @ UCalgary |                     
-<a href="https://www.linkedin.com/in/saqib-mazhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saqib-mazhar/" height="30" width="20" /></a>
-</h1>
-</p>
+<h3 align="center">
+  A CS Student @ UCalgary 
+  <a href="https://www.linkedin.com/in/saqib-mazhar/" target="blank">
+  </a>
 </h3>
 
-
-
-  - 🔭 I’m currently working on **SecondBrain**
-
-  - 🌱 I’m currently learning **Backend Development**
-
-  - 👨‍💻 All of my projects are usually available at [saqibmazhar.com](saqibmazhar.com) (In progress)
-
-  - 📫 How to reach me **saqibmaz@gmail.com**
-
-    <p> 
-    
-    </p>
-
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqibx&" alt="saqibx" /></p>
+ <p align="center">Hi there, I am a 3rd year student @ the University of Calgary. I am currently working on my Energy Anomaly dashboard. If you're interested in learning more, feel free to check the repository! </p>
+<div align="center">
  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibx&theme=radical&show_icons=true&hide_border=false&layout=compact" height="200"/>
+</div>
+
 
 
 
