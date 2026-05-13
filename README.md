@@ -6,7 +6,7 @@
   </a>
 </h3>
 
- <p align="center">Hi there, I am a 3rd year student @ the University of Calgary. I am currently working on my Fraud Detection Engine. If you're interested in learning more, feel free to check the repository! </p>
+ <p align="center">Hi there, I am a 3rd year student @ the University of Calgary. I am currently working on my Internal Leave Platform. If you're interested in learning more, feel free to check the repository! </p>
 <div align="center">
 
  
