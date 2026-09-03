@@ -6,7 +6,7 @@
   </a>
 </h3>
 
- <p align="center">Greetings</p>
+ <p align="center">Please hire me</p>
 <div align="center">
 
  
